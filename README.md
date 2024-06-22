@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Omadeanne
 - 👀 I’m interested in software development, cloud computing, data, and design...
-- 🌱 I’m currently learning and relearning
 - 💞️ I’m looking to collaborate on problem-solving projects ...
 
 
